@@ -21,26 +21,6 @@ We believe that this App will go a long way in helping save lives and also put t
 This App provides a solution that addresses the Sustainable Development Goal (SDG) 3: Ensure healthy lives and promote well-being for all at all ages, with focus on avoiding usage of harmful drugs.
 
 
-## Usage
-To make use of the Drug Verification app,
-
-Install `npm` or `yarn` if you dont have any of them already installed.
-
-After clonning the repo to your local machine and moving into the cloned folder
-
-### Install dependencies
-$ npm install
-
-### Serve with hot reload at localhost:3000
-$ npm run dev
-
-### Build for production and launch server
-$ npm run build
-$ npm run start
-
-### Generate static project
-$ npm run generate
-
 ## Authors
 
 [@Olawanle Joel](https://github.com/olawanlejoel)
@@ -50,11 +30,17 @@ $ npm run generate
 [@David Emaye](https://github.com/emodot)
 
 
+## UI/UX
+
+Here is  link to the UI/UX design of this App - https://www.figma.com/file/NgLAzyEU0oQnJgwwi2BS7G/DV-App?node-id=0%3A1
+
+## Presentation slide
+
+Here is a link to our slide for pitching DV App - https://www.canva.com/design/DAEd5BRug6Q/MMoUXt7D_ze5TV1hSH8xjQ/view?utm_content=DAEd5BRug6Q&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+
+
 ## Contributing
 
 If this project sounds interesting to you and you'd like to contribute, thank you!
 We will be releasing more info on how to contribute soon!
-
-## LICENSE
-MIT
 
